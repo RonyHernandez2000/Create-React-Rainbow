@@ -1,4 +1,5 @@
 import "./App.css";
+// both react imports can be combined
 import React from "react";
 import { useState } from "react";
 import ColorBlock from "./ColorBlock.js";
